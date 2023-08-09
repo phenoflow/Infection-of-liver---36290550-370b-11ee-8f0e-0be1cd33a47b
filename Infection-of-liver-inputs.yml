@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/infection-of-liver-abscess---secondary.py
+inputModule3:
+  class: File
+  path: python/acute-infection-of-liver---secondary.py
+inputModule4:
+  class: File
+  path: python/viral-infection-of-liver---secondary.py
+inputModule5:
+  class: File
+  path: python/infection-of-liver-unspecified---secondary.py
+inputModule6:
+  class: File
+  path: python/infection-of-liver-hepatitis---secondary.py
+inputModule7:
+  class: File
+  path: python/infection-of-liver-echinococcu---secondary.py
+inputModule8:
+  class: File
+  path: python/infection-of-liver---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
